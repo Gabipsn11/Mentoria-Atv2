@@ -3,11 +3,11 @@ function mapearNomes(pessoas) {
     return nomesMaiusculos;
   }
   const arrayDePessoas = [
-    {nome: 'Patricia', idade: 30},
-    {nome: 'Carlos', idade: 25},
-    {nome: 'Beatriz', idade: 40},
-    {nome: 'Eduardo', idade: 35},
-    {nome: 'Fernanda', idade: 28}
+    {nome: 'Elon Musk', idade: 66},
+    {nome: 'Gabriela', idade: 19},
+    {nome: 'Fernando Cadeira', idade: 40},
+    {nome: 'Datena', idade: 60},
+    {nome: 'Pablo Marçal', idade: 35}
   ];
 
   console.log(mapearNomes(arrayDePessoas));
